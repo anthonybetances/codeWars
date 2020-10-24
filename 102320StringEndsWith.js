@@ -9,4 +9,4 @@ function solution(str, ending){
   }else{
     return false
   }
-}
+} 
